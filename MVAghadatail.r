@@ -7,8 +7,8 @@
 # (top) and four tails (bottom) in comparison of the NIG, 
 # the Laplace, the Cauchy and the Gauss distribution
 # −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−
-# Keywords : pdf, Cauchy distribution, gaussian, tail,
-# laplace, plot
+# Keywords : pdf, cauchy, gaussian, laplace, distribution, tail, heavy-tailed, multivariate, probability, density,
+# plot, graphical representation
 # −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−
 # See also : MVAghdis, MVAghdistail
 # −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−
