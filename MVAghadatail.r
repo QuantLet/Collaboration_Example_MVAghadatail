@@ -50,5 +50,4 @@ lines(xx, dcauchy(xx, 0, 1), type = "p", col = "blue", lwd = 1)
 lines(seq(-6, 6, 0.02), dnorm(seq(-6, 6, 0.02)), type = "l", col = "red", lwd = 3)
 legend(x = -4.5, y = 0.014, legend = c("NIG", "Laplace", "Cauchy", "Gaussian"), pch = c(20, 
     20, 20, 20), col = c("green", "black", "blue", "red"), bty = "n")
-title("Tail comparison") 
-
+title("Tail comparison")
