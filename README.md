@@ -3,6 +3,7 @@
 
 ## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **QID-1477-MVAghadatail**
 
+![Picture1](collaboration_timeline.png)
 
 ```yaml
 Name of QuantLet : MVAghadatail
