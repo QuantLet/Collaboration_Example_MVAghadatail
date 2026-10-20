@@ -9,7 +9,7 @@ Name of QuantLet: MVAghadatail
 
 Published in: Applied Multivariate Statistical Analysis
 
-Description: Plots four probability density functions
+Description: Plots four probability density functions (top) and four tails (bottom) in comparison of the NIG, the Laplace, the Cauchy and the Gauss distribution
 
 Keywords: 
 - pdf
